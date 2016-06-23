@@ -1,0 +1,45 @@
+cd "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat"
+del *.tde
+cd "C:\Users\Elaine\Documents\BKL\Danvers\Scripts
+
+python CreateExtract.py "DisGr1.csv" "DistrictDemo.csv" "DistrictGrade1.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "DisGr2.csv" "DistrictDemo.csv" "DistrictGrade2.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "DisGr3.csv" "DistrictDemo.csv" "DistrictGrade3.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "DisGr4.csv" "DistrictDemo.csv" "DistrictGrade4.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "DisGr5.csv" "DistrictDemo.csv" "DistrictGrade5.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "DisGrK.csv" "DistrictDemo.csv" "DistrictKinder.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+
+python CreateExtract.py "GOGr1.csv" "GODemo.csv" "GreatOakGrade1.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "GOGr2.csv" "GODemo.csv" "GreatOakGrade2.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "GOGr3.csv" "GODemo.csv" "GreatOakGrade3.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "GOGr4.csv" "GODemo.csv" "GreatOakGrade4.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "GOGr5.csv" "GODemo.csv" "GreatOakGrade5.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "GOGrK.csv" "GODemo.csv" "GreatOakKinder.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+
+python CreateExtract.py "HLGr1.csv" "HLDemo.csv" "HighlandsGrade1.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "HLGr2.csv" "HLDemo.csv" "HighlandsGrade2.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "HLGr3.csv" "HLDemo.csv" "HighlandsGrade3.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "HLGr4.csv" "HLDemo.csv" "HighlandsGrade4.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "HLGr5.csv" "HLDemo.csv" "HighlandsGrade5.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "HLGrK.csv" "HLDemo.csv" "HighlandsKinder.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+
+python CreateExtract.py "RSGr1.csv" "RSDemo.csv" "RiversideGrade1.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "RSGr2.csv" "RSDemo.csv" "RiversideGrade2.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "RSGr3.csv" "RSDemo.csv" "RiversideGrade3.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "RSGr4.csv" "RSDemo.csv" "RiversideGrade4.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "RSGr5.csv" "RSDemo.csv" "RiversideGrade5.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "RSGrK.csv" "RSDemo.csv" "RiversideKinder.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+
+python CreateExtract.py "SMGr1.csv" "SMDemo.csv" "SmithGrade1.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "SMGr2.csv" "SMDemo.csv" "SmithGrade2.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "SMGr3.csv" "SMDemo.csv" "SmithGrade3.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "SMGr4.csv" "SMDemo.csv" "SmithGrade4.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "SMGr5.csv" "SMDemo.csv" "SmithGrade5.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "SMGrK.csv" "SMDemo.csv" "SmithKinder.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+
+python CreateExtract.py "THGr1.csv" "THDemo.csv" "ThorpeGrade1.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "THGr2.csv" "THDemo.csv" "ThorpeGrade2.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "THGr3.csv" "THDemo.csv" "ThorpeGrade3.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "THGr4.csv" "THDemo.csv" "ThorpeGrade4.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "THGr5.csv" "THDemo.csv" "ThorpeGrade5.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
+python CreateExtract.py "THGrK.csv" "THDemo.csv" "ThorpeKinder.tde" "C:\Users\Elaine\Documents\BKL\Danvers\Implementation15-16\TableauFormat\\"
